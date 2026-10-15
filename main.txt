@@ -1,1 +1,1 @@
-print(hello kasir)
+print(aplikasi kasir)
